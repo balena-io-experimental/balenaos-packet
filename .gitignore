@@ -1,0 +1,6 @@
+artifacts
+tmp
+log
+.DS_Store
+*.swo
+*.swp
